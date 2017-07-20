@@ -1,9 +1,5 @@
 package Project1;
 
-/**
- * Created by Yoona on 7/18/2017.
- */
-
 import javax.imageio.*;
 import javax.imageio.metadata.*;
 import javax.imageio.stream.*;
